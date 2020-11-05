@@ -4,6 +4,8 @@ Menulis ulang kode dari tutorial [**Web Assembly(WASM) Calculater Created in Jav
 
 ## Bagaimana cara menjalankannya.
 
+> Pastikan Anda sudah menginstal [Emscripten](https://emscripten.org/docs/getting_started/downloads.html) untuk menghasilkan file Web Assembly karena proyek ini menggunakan bahasa pemrograman C.
+
 Untuk mendapatkan hasil file berekstensi **.wasm** gunakan perintah emscripten di bawah.
 
 ```
